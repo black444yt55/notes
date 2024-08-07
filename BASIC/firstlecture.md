@@ -35,3 +35,9 @@ You Can Also Tell It As Following
 * 2<sup>8</sup> = 256 Combination
 
 
+# Types Of Translators 
+
+* Compiler
+* Interpreter
+
+
