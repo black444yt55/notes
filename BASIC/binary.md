@@ -1,7 +1,9 @@
 # Types Of Computer Understanding  Language 
 * Binary Language
 * Low Level Language
-* Machine Level Language 
+* Machine Level Language
+
+
 
 
 ### 0,1 (Binary Language)
@@ -39,5 +41,8 @@ You Can Also Tell It As Following
 
 * Compiler
 * Interpreter
+
+
+
 
 
