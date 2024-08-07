@@ -19,3 +19,7 @@
 
 * Primitive
 * Non-Primitive
+
+
+# ASCII
+Full Form - American Standard Code For Information Interchange 
