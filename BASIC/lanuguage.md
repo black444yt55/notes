@@ -4,5 +4,22 @@
 * Mid Level Language 
 * High Level Language
 
+### Low Level Language 
+E.g -
+* Binary Code
+* Machine Language
 
-![Example]("C:\Users\geeta\Downloads\1_kPC94R-gM1KbhZl1mcXTZw.jpg")
+### Medium Level Language 
+E.g - 
+* Assemly Language
+* C
+* C++
+
+
+### High Level Language 
+E.g - 
+* Cobol
+* Pascl
+* Python
+* Java
+* PHP
